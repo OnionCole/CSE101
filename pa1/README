@@ -1,0 +1,23 @@
+Cole Anderson
+comander
+pa1
+
+List.h: header file for List module
+List.c: List module
+ListClient.c: small provided test module
+Lex.c: Main that outs the lexographical sort of an input file to an output file
+Makefile: the makefile
+README: the readme
+
+
+SPECIAL NOTE TO PROF/GRADER:
+I believe that I have found an inconsistency between the project document and the grading tests
+		for this assignment. In the document it states, "the set of 'mathematical structures' for 
+		this ADT consists of all finite sequences of integers in which at most one element is 
+		underscored." This seems to state that the cursor is part of the state. The 'equals'
+		method is supposed to compare state, which means that it should compare the cursor.
+		However, the equals test is used in the tests for the insert and copy methods to check
+		correctness. With the copy method in particular, the cursor is supposed to be undefined
+		in the copy, but the equals test is then used to test the return of the copy method
+		against a List with the cursor defined. I altered my equals method to pass the tests, but
+		its execution deviates from what the document suggests it should be.

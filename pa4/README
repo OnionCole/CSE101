@@ -1,0 +1,16 @@
+Cole Anderson
+comander
+pa4
+
+
+List.c: List implementation file
+List.h: List header file
+
+Graph.c: Graph implementation file
+Graph.h: Graph header file
+
+GraphTest.c: some testing of Graph ADT
+FindComponents.c: client, finds strongly connected components of a graph
+
+Makefile: the makefile
+README: the readme

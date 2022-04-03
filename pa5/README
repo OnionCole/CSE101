@@ -1,0 +1,17 @@
+Cole Anderson
+comander
+pa5
+
+
+List.cpp: List implementation file
+List.h: List header file
+
+ListTest.cpp: some testing of List ADT
+Shuffle.cpp: client, finds minimum number of shuffles necessary to recreate orignal state
+
+Makefile: the makefile
+README: the readme
+
+
+NOTE TO GRADER:
+Did not put personal comment into List.h because pa document says not to alter that file in bold

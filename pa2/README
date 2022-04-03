@@ -1,0 +1,17 @@
+Cole Anderson
+comander
+pa2
+
+
+BigInteger.c: BigInteger implementation file
+BigInteger.h: BigInteger header file
+List.c List implementation file
+List.h List header file
+
+Arithmetic.c: Main that outs certain computations on an input file to an output file
+
+README: the readme
+Makefile: the makefile
+
+ListTest.c: some testing of List.c
+BigIntegerTest.c: some testing of BigInteger.c
