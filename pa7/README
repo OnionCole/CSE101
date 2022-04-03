@@ -1,0 +1,17 @@
+Cole Anderson
+comander
+pa7
+
+
+Dictionary.c: Dictionary implementation file
+Dictionary.h: Dictionary header file
+
+DictionaryTest.c: some testing of Dictionary ADT
+Order.c: client, outs prefix, infix, postfix
+
+Makefile: the makefile
+README: the readme
+
+
+NOTE TO GRADER:
+Did not put personal comment into Dictionary.h because pa document says not to alter that file in bold
